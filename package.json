@@ -1,0 +1,17 @@
+{
+  "name": "easynquick-password-generator",
+  "version": "1.0.0",
+  "description": "This is an easy and quick library for generating string and unique passwords.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "generator"
+  ],
+  "author": "Aicha HMIMOUCH",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
