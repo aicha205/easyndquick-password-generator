@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "This is an easy and quick library for generating string and unique passwords.",
   "main": "index.js",
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/aicha205/easyndquick-password-generator.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
