@@ -1,7 +1,7 @@
 {
   "name": "easynquick-password-generator",
   "version": "1.0.0",
-  "description": "This is an easy and quick library for generating string and unique passwords.",
+  "description": "This is an easy and quick library for generating strong and unique passwords.",
   "main": "index.js",
   "repository":{
     "type":"git",
