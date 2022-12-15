@@ -4,7 +4,7 @@ Get a quick and strong password with a single click.
 
 # Installation
 
-`npm i easyndquick-password-generator --save`
+`npm i easynquick-password-generator --save`
 
 Then...
 ```
@@ -23,7 +23,7 @@ PasswordGenerator.generatePassword
 ```
 ## Options 
 
-Easyndquick-password-generator supports 5 options :
+Easynquick-password-generator supports 5 options :
 * *length* - (Integer) defaults to 10 characters.
 * *lower* -  (Boolean) set up lower characters in password.
 * *upper* - (Boolean) set up upper characters in password.
